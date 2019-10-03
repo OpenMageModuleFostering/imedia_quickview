@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Imedia_Quickview",
+    "name": "openmage-module-fostering\/imedia_quickview",
     "type": "magento-module",
-    "license": "OSLv3.0",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Product Quick View on category page",
     "authors": [
