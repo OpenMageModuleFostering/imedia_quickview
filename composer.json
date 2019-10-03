@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Imedia_Quickview",
+    "name": "OpenMageModuleFostering\/Imedia_Quickview",
     "type": "magento-module",
     "license": "OSLv3.0",
     "homepage": "",
     "description": "Product Quick View on category page",
     "authors": [
-    {
-        "name": "iMedia inc.",
-        "email": "info@imediadesigns.org"
-    }
-],
+        {
+            "name": "iMedia inc.",
+            "email": "info@imediadesigns.org"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
